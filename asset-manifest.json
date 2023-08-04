@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Van-Life/static/js/main.1b06aabf.js",
+    "static/media/home-hero.png": "/Van-Life/static/media/home-hero.51bdd9611a91dc670e5b.png",
+    "static/media/about-hero.png": "/Van-Life/static/media/about-hero.8d6118dfcf832ee14723.png",
+    "index.html": "/Van-Life/index.html",
+    "main.1b06aabf.js.map": "/Van-Life/static/js/main.1b06aabf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1b06aabf.js"
+  ]
+}
